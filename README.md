@@ -3,6 +3,8 @@
 This repository contains the frontend and backend code for the "AI Demos" demos.
 These are not for production use, but rather serve as visual examples of how to use the AI offerings of Google Cloud Platform.
 
+Example updated here May 28
+
 There are multiple demos covering multiple products and use cases.
 
 See the hosted demo at https://ai-demos.dev/
